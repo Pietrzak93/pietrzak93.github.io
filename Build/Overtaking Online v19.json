@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Overtake Online",
+"productVersion": "0.0.17",
+"dataUrl": "Overtaking Online v19.data.unityweb",
+"wasmCodeUrl": "Overtaking Online v19.wasm.code.unityweb",
+"wasmFrameworkUrl": "Overtaking Online v19.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
